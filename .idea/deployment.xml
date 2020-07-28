@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="mrcharles@25.95.89.50:22" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="mrcharles@25.95.89.50:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/mrcharles/SIReNet_project" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
