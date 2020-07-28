@@ -42,7 +42,7 @@ class EpidemicsGraph(SparseGraph_wutils):
 
     - propagate_infection( todo complete propagate_infection documentation)
 
-
+    prova
 
     '''
 
